@@ -1,4 +1,4 @@
-# 📊 Analysing Customer Churn through Dashboards
+# 📊 Analysing Customer Churn with Tableau 
 
 ## 🔍 Project Overview
 
