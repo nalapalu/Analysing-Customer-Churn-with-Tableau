@@ -11,10 +11,10 @@ This project focuses on analyzing why customers are churning. The goal is to tra
 
 ## 📁 Contents
 
-- **/dashboards/** – Contains exported Tableau dashboards (as PDFs or screenshots)
-- **/data/** – Raw and cleaned datasets (CSV or Excel)
+- **[Tableau File](Customer_Churn.twbx)** – Tableau file with sheets, dashboards and story
+- **[Data](Databel-Data.csv)** – Raw and cleaned datasets (CSV or Excel)
 - **README.md** – You're here!
-- **Tableau Public Link** – Direct access to the interactive dashboard
+- [**Tableau Public Link**](https://public.tableau.com/app/profile/chiranjeevi.nalapalu/viz/Customer_Churn_17448109441080/Summary) – Direct access to the interactive dashboard
 
 ## 🌐 Live Dashboard
 
@@ -28,7 +28,9 @@ This project focuses on analyzing why customers are churning. The goal is to tra
 ## 📊 Key Visualizations
 
 - 📍 **[Insert viz name]** – [One-line summary of what it shows]
+
 - 📍 **[Insert viz name]** – [One-line summary of what it shows]
+
 - 📍 **[Insert viz name]** – [One-line summary of what it shows]
 
 ## 🧠 Insights & Takeaways
