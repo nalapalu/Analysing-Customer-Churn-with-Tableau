@@ -27,17 +27,25 @@ This project focuses on analyzing why customers are churning. The goal is to tra
 
 ## 📊 Key Visualizations
 
-- 📍 **[Insert viz name]** – [One-line summary of what it shows]
+- 📍 **Age Brackets and Groups** – Interactive dashboard showing a distribution of different metrics(count of service calls, customers) in different age and group number brackets. With filters for payment method, international plan, account length etc. 
 
-- 📍 **[Insert viz name]** – [One-line summary of what it shows]
+![alt text](Screenshot2.png)
 
-- 📍 **[Insert viz name]** – [One-line summary of what it shows]
+
+- 📍 **Payment Method and contract Types** – Scatter plot of Churn rate vs account length for different mayment methods and contract types with text fields diplaying total and average service calls.  
+
+![alt text](Screenshot3.png)
+
+
+- 📍 **Data Plan and international charges** – Highlight table and grouped bar chart showing churn rate as a fuction of international charges and data plan
+
+![alt text](Screenshot4.png)
 
 ## 🧠 Insights & Takeaways
 
-- 🔹 Insight 1: [Brief description]
-- 🔹 Insight 2: [Brief description]
-- 🔹 Insight 3: [Brief description]
+- 🔹 Insight 1: Total Churn Rate was 26.86% and the leading cause of Churn was competitors making better offers
+- 🔹 Insight 2: The state with the highest Churn rate was California with amjority of customers being on a month to month contract 
+- 🔹 Insight 3: Churn rates were higher in older customers but lower in youger people and for people who were part of a family/group plan. 
 
 ## 💡 Future Improvements
 
