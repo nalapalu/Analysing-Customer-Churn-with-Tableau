@@ -1,4 +1,4 @@
-# 📊 Tableau_Project_Analysing_Customer_Churn_through_Dashboards
+# 📊 Analysing Customer Churn through Dashboards
 
 ## 🔍 Project Overview
 
