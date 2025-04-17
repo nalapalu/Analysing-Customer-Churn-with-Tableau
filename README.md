@@ -6,6 +6,9 @@ Investigated a dataset from an fictional telecom company called Databel and anal
 
 This project focuses on analyzing why customers are churning. The goal is to transform raw data into meaningful insights through visually compelling dashboards that support data-driven decision-making.
 
+![Alt text](screenshot_dashboard.png)
+
+
 ## 📁 Contents
 
 - **/dashboards/** – Contains exported Tableau dashboards (as PDFs or screenshots)
