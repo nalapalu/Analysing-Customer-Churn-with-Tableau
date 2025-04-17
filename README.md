@@ -2,14 +2,14 @@
 
 ## 🔍 Project Overview
 
-This project delves into the churn rates of a fictional telecom company, Databel, aiming to uncover insights about customer behavior. Understanding churn involves more than just knowing the churn rate; it requires identifying the root causes and devising strategies to reduce customer attrition. By leveraging Tableau's advanced features like calculated fields, dual-axis graphs, scatter plots, filters, and parameters, this analysis transforms raw data into actionable insights through compelling visual dashboards.
+This project uses Tableau to uncover the drivers behind customer churn in a telecom company, Databel, aiming to uncover insights about customer behavior. Understanding churn involves more than just knowing the churn rate; it requires identifying the root causes and devising strategies to reduce customer attrition. By leveraging Tableau's advanced features like calculated fields, dual-axis graphs, scatter plots, filters, and parameters, this analysis transforms raw data into actionable insights through compelling visual dashboards.
 
 ![alt text](Screenshot.png)
 
 ## 📁 Contents
 
-- **[Tableau File](Customer_Churn.twbx)** – Comprehensive Tableau workbook with sheets, dashboards, and story
-- **[Data](Databel-Data.csv)** – Raw and cleaned datasets (CSV format)
+- **[Tableau File](Customer_Churn.twbx)** – Tableau workbook with calculated fields, custom charts, and storyboards for churn analysis
+- **[Data](Databel-Data.csv)** – Cleaned dataset including customer demographics, service usage, and churn labels
 - **README.md** – You're here!
 - **[Interactive Dashboard](https://public.tableau.com/app/profile/chiranjeevi.nalapalu/viz/Customer_Churn_17448109441080/Summary)** – Direct link to Tableau Public visualization
 
@@ -49,6 +49,11 @@ This project delves into the churn rates of a fictional telecom company, Databel
 - Exporting dashboards to PDF, PowerPoint, and Excel formats
 
 ## 📊 Key Visualizations
+
+### 📍 Overview
+Visualization highlighting key KPIs from the study, including churn rate and number of churned customers. It also highlights the main reasons for the churning in a stacked bar chart and categories shown in pie chart. A map showing churn rates by state with a tool tip showing additional information. 
+
+![alt text](Screenshot.png)
 
 ### 📍 Age Brackets and Groups
 Interactive dashboard showcasing metrics distribution (e.g., service calls, customer count) across various age brackets and group numbers. Includes filters for payment method, international plan, account length, and more. 
